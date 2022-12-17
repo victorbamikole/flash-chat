@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "718037904280",
+    "project_id": "flash-chat-ca6ce",
+    "storage_bucket": "flash-chat-ca6ce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:718037904280:android:0724a0f5af4935db9859ed",
+        "android_client_info": {
+          "package_name": "co.devick.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "718037904280-mj7c8i210f3muqv4aeqmfmlf7trtjgk6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyr_enNUk0siFpjWFYwGxROqyedo6CpDM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "718037904280-mj7c8i210f3muqv4aeqmfmlf7trtjgk6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
